@@ -1,0 +1,39 @@
+Road narrows on right sign
+50 mph speed limit sign 
+Attention Please sign 
+Beware of children sign
+CYCLE ROUTE AHEAD WARNING sign 
+Dangerous Left Curve Ahead sign
+Dangerous Right Curve Ahead sign
+End of all speed and passing limits sign
+Give Way sign
+Go Straight or Turn Right sign
+Go straight or turn left sign
+Keep Left sign
+Keep Right sign
+Left Zig Zag Traffic sign
+No Entry sign
+No Over Taking sign
+Overtaking by trucks is prohibited sign
+Pedestrian Crossing sign
+Round About sign
+Slippery Road Ahead sign
+Speed Limit 20 KMPh sign
+Speed Limit 30 KMPh sign
+Stop Sign
+Straight Ahead Only sign
+Traffic signal sign
+Truck traffic is prohibited sign
+Turn left ahead sign
+Turn right ahead sign
+Uneven Road sign
+potHoles
+ambulance
+bicycle
+bus
+car
+motorbike
+pickup
+truck
+van
+license
